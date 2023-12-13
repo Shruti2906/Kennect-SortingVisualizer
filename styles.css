@@ -1,0 +1,8 @@
+/* styles.css */
+
+.bar {
+  display: inline-block;
+  width: 20px;
+  margin: 0 1px;
+  background-color: #3498db;
+}
